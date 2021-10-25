@@ -11,3 +11,9 @@ Welcome! Place the ``||basic:show string||`` block in the ``||basic:on start||``
 ```blocks
 basic.showString("Micro!")
 ```
+
+## Step 2
+
+```blocks
+basic.showString("Micro!")
+```
