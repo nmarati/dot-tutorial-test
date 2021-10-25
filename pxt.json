@@ -5,13 +5,14 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "dot": "github:kodely-io/dot#master"
     },
     "files": [
         "main.blocks",
         "main.ts",
         "README.md",
-        "tuttest.md"
+        "tutorial1.md"
     ],
     "testFiles": [
         "test.ts"
